@@ -4,7 +4,7 @@
 
   In order to achieve my objective, I started to look for previous works already done in the community of Data Scientists (each of them will be quoted at the end), and I discovered that Spotify already has an API that allow us to extract what they call, the “Audio-Features”, which they are certain kind of attributes that belong to each song. For instance, some of them are very subjective fields as, how “danceable” or how much “energy” a song has, and others more objective like Tempo, Key or Mode (minor or major).
   
-  Gladly, it exist a Python Library called "Spotipy", that allow us to connect to the API in a easy and quick way. It's worth to mention that it will be require a Spotify "Dev Account", but the process is easy and free of charge.
+  Gladly, it exists a Python Library called "Spotipy", that allows us to connect to the API in a easy and quick way. It's worth to mention that it will be require a Spotify "Dev Account", but the process is easy and free of charge.
   
  ## Enviroment
  
@@ -18,7 +18,7 @@
 
 ## EDA
   
-  We created 2 lists: One based on all the songs that I have liked along the years (df_SI), and other one based in all genres that I really do not like as “Reggaeton” and “Cumbia 420” (DF_NO).  Each of them has 400 songs, and here there are some facts about ther features.
+  We created 2 lists: One based on all the songs that I have liked along the years (df_SI), and other one based in all genres that I really do not like as “Reggaeton” and “Cumbia 420” (df_NO).  Each of them has 400 songs, and here there are some facts about ther features.
     
   ![alt text](https://github.com/agonzalezramos/Spotify-Recommender/blob/main/img1.png?raw=true)
   ![alt text](https://github.com/agonzalezramos/Spotify-Recommender/blob/main/img2.png?raw=true)
