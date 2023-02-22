@@ -16,6 +16,19 @@
 -	**Pandas** and **Numpy** Library for data analysis
 -	**Scikit-Learn** Library for our Machine Learning model
 
+## EDA
+  
+  We created 2 lists: One based on all the songs that I have liked along the years (df_SI), and other one based in all genres that I really do not like as “Reggaeton” and “Cumbia 420” (DF_NO).  Each of them has 400 songs, and here there are some facts about ther features.
+    
+  ![alt text](https://github.com/agonzalezramos/Spotify-Recommender/blob/main/img1.png?raw=true)
+  ![alt text](https://github.com/agonzalezramos/Spotify-Recommender/blob/main/img2.png?raw=true)
+  
+  As we can observe, both of the lists have “danceability”, “energy” and “valence” as the main features, however there are differences related of the intensity of each of them.
+
+  ![alt text](https://github.com/agonzalezramos/Spotify-Recommender/blob/main/img3.png?raw=true)
+  
+  Another approach that we can do is to compare the mean of each feature between datasets. In this case, “danceabilty” and “energy”  are the ones with much more difference on the df_NO, and “Acousticness” is the main one on the df_SI. 
+
  ## Usage
  
 If you want to use this notebook, simply paste your Spotify Dev Credentials and give it a try.
@@ -26,3 +39,4 @@ On the other hand, if you want to replicate the model, I have left the procesed 
 https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features
 https://towardsdatascience.com/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de Thanks to Juan De Dios Santos
 https://towardsdatascience.com/a-music-taste-analysis-using-spotify-api-and-python-e52d186db5fc  Thanks to Jonathan Cabreira
+https://www.linkedin.com/pulse/extracting-your-fav-playlist-info-spotifys-api-samantha-jones/ Thanks to Samantha Jones
