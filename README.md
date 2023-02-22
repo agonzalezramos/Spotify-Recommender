@@ -19,6 +19,10 @@
  ## Usage
  
 If you want to use this notebook, simply paste your Spotify Dev Credentials and give it a try.
-On the other hand, if you want to replicate the model, I have left the procesed final dataframe based on my personal account.
+On the other hand, if you want to replicate the model, I have left the procesed final dataframe based on my personal account (otherwise you wouldn't be able to get my liked songs playlist).
 
 ## Useful links
+
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features
+https://towardsdatascience.com/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de Thanks to Juan De Dios Santos
+https://towardsdatascience.com/a-music-taste-analysis-using-spotify-api-and-python-e52d186db5fc  Thanks to Jonathan Cabreira
