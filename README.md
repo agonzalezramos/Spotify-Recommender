@@ -37,7 +37,7 @@ The whole analysis was created in a Google Colab Jupyter Notebook with each of t
 
 ## Useful links
 
-https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features
-https://towardsdatascience.com/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de Thanks to Juan De Dios Santos
-https://towardsdatascience.com/a-music-taste-analysis-using-spotify-api-and-python-e52d186db5fc  Thanks to Jonathan Cabreira
-https://www.linkedin.com/pulse/extracting-your-fav-playlist-info-spotifys-api-samantha-jones/ Thanks to Samantha Jones
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features <br />
+https://towardsdatascience.com/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de <br />
+https://towardsdatascience.com/a-music-taste-analysis-using-spotify-api-and-python-e52d186db5fc  <br />
+https://www.linkedin.com/pulse/extracting-your-fav-playlist-info-spotifys-api-samantha-jones/ <br />
