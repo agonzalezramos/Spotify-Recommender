@@ -1,6 +1,6 @@
 # Spotify-Recommender
 
-  As a musician, I cannot let pass a day without opening the Spotify app and play some music according my mood. That made me to wonder why I haven't considered using my own data collection along (how many?) years to, first, make a small exploratory analysis and second, try to develop a classification model that would predict whether I liked a song or not.
+  As a musician, I cannot let pass a day without opening the Spotify app and play some music according my mood. That made me to wonder why I haven't considered using my own data collection along so many years to, first, make a small exploratory analysis and second, try to develop a classification model that would predict whether I liked a song or not.
 
 In order to achieve my goal, I started to look into previous pieces of work which have been already done in the community of Data Scientists (each of them will be enumerated at the end), and I discovered that Spotify already has an API that allows us to extract what they named the “Audio-Features”, which are a certain kind of attributes that belongs to each song. Some of them are very subjective fields, for instance, how danceable a song is or how much energy a song can give you, and others more objective like Tempo, Key or Mode (minor or major).
 
